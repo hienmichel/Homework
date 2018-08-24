@@ -1,1 +1,2 @@
-J'ai revisé Git mais je me dois de travailler plus sur la console.
+Je n'ai pas encore de code donc je ne fais que mettre du texte! Bientôt ça changera.
+
